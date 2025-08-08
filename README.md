@@ -1,46 +1,77 @@
 <h1 align="center">Hi there 👋, I'm Fares Radwan</h1>
-<h3 align="center">A passionate Data Engineering student from Egypt 🇪🇬</h3>
+<h3 align="center">Aspiring Data Engineer | 2nd-year Computer Science Student @ Mansoura University</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fares-radwan-b73066339" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-🎓 I'm currently a student at the Faculty of Computers and Information, Mansoura University.  
-💡 I'm on a mission to become a **professional Data Engineer**.  
-🚀 I'm currently working with **Apache Spark**, **Apache Airflow**, and **Docker**, building practical projects to sharpen my skills.  
-📚 I have completed multiple certificates from **DataCamp** in data-related fields.
+### 🚀 About Me
+
+- 🎓 2nd-year **Computer Science student** at Mansoura University.
+- 🧠 Passionate about **Data Engineering, Big Data & Cloud**.
+- 💼 Hands-on with **Airflow, Spark, PySpark, Docker**.
+- 👨‍💻 Skilled in **Python, SQL, PostgreSQL, MySQL, SQL Server, Excel, Power BI, C#**.
+- 🌱 Building scalable data pipelines and optimizing workflows.
+- 🔨 Developing a strong portfolio with real-world projects.
 
 ---
 
-### 🛠️ Tech Stack I'm Working With:
-- **Languages:** Python, SQL, C#
-- **Databases:** SQL Server, PostgreSQL, MySQL
-- **Tools:** Power BI, Excel
-- **Platforms:** Docker, Apache Spark, Apache Airflow
-- **Other:** Git, GitHub, APIs, Data Analysis, Cloud Basics (Azure)
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PySpark-2C3E50?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-### 🧠 Currently Learning:
-- Big Data & Distributed Systems  
-- Data Pipelines & Workflow Automation  
-- Cloud for Data (Azure)  
-- Advanced SQL & Python for Data Engineering
+### 📜 Certifications
+
+- 📜 [DataCamp: Data Engineering for Everyone](https://www.datacamp.com/completed/statement-of-accomplishment/track/898e211d767a70bafd02f77570365e3d5a250194?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+- 📜 [DataCamp: Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/188a6a434c3936c6946143ffc88c29ab385214ca?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+- 📜 NTI Training Certificate *(PDF available on request)*
+- 📜 EYouth Data Track Certificate *(PDF available on request)*
 
 ---
 
-### 📌 My Certificates:
-- DataCamp Certificates in:
-  - Data Engineering Fundamentals
-  - Python for Data Science
-  - SQL for Data Analysis
-  - …and more!
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faresradwan&show_icons=true&theme=dracula" alt="Fares's GitHub Stats" />
+</p>
 
 ---
 
-### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/fares-radwan-b73066339)
-- [Instagram](https://www.instagram.com/) <!-- (اضف رابطك هنا) -->
-- [Facebook](https://www.facebook.com/) <!-- (اضف رابطك هنا) -->
+### 📫 Connect with Me
+
+- 🌐 LinkedIn: [fares-radwan-b73066339](https://linkedin.com/in/fares-radwan-b73066339)
+- 📧 Email: faresradwan080@gmail.com
 
 ---
+
+### ⚡ Fun Fact
+
+> "Turning raw data into real-world impact, one pipeline at a time."  
 
 > “Proud of this journey, and excited for what's coming next!” 🌟  
