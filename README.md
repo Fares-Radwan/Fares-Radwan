@@ -12,9 +12,9 @@
 ### 🚀 About Me
 
 - 🎓 2nd-year **Computer Science student** at Mansoura University.
-- 🧠 Passionate about **Data Engineering, Big Data & Cloud**.
-- 💼 Hands-on with **Airflow, Spark, PySpark, Docker**.
-- 👨‍💻 Skilled in **Python, SQL, PostgreSQL, MySQL, SQL Server, Excel, Power BI, C#**.
+- 🧠 Passionate about **Data Engineering, Big Data, and Cloud Technologies**  
+- 👨‍💻 Skilled in **Python, SQL, Excel, Power BI, SQL Server, PostgreSQL, C#**  
+- 🚀 Currently learning **Apache Airflow, Apache Spark, PySpark, and Docker**  
 - 🌱 Building scalable data pipelines and optimizing workflows.
 - 🔨 Developing a strong portfolio with real-world projects.
 
