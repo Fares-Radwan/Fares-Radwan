@@ -48,8 +48,8 @@
 
 ### 📜 Certifications
 
-- 📜 [Associate Data Engineer in SQL – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/188a6a434c3936c6946143ffc88c29ab385214ca?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
-- 📜 [Data Engineer in Python – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/898e211d767a70bafd02f77570365e3d5a250194?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+- 📜 [Data Engineer in Python – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/188a6a434c3936c6946143ffc88c29ab385214ca?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+- 📜 [Associate Data Engineer in SQL – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/898e211d767a70bafd02f77570365e3d5a250194?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
 
 ---
 
